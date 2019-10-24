@@ -9,7 +9,7 @@ class SimpleComponent extends Component {
 
     handleClick = () => {
         this.setState({
-            mood : "sad"          
+            mood : "sad"
         })
     }
 
